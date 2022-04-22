@@ -53,7 +53,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://dev.meadowserver.com'),
     'site_name' => env('APP_SITE_NAME', 'my self hosted miscellany'),
 
     /*
